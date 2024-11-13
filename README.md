@@ -3,7 +3,7 @@
 O intuito deste repositório é melhorar as técnicas do HTML para fins didáticos , Primeira atividade
 
 <div align=center>
-    <img src="" width=200>
+    <img src="./img/Samsung-Galaxy-S20-127.0.0.1 (1).png" width=200>
 </div>
     
     
